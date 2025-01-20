@@ -6,7 +6,7 @@ repository: https://github.com/juliuscanute/qr_code_scanner
 
 environment:
   sdk: ^3.5.3
-  flutter: '>=3.3.0'
+  flutter: ">=3.3.0"
 
 dependencies:
   js: ^0.6.3
